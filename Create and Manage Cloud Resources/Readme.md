@@ -14,4 +14,12 @@ This quest has  7  labs
 8. [Learning perceptron and delta](#Learning-perceptron-and-delta)
 
 
+
+##  A Tour of Google Cloud Hands-on Labs
+##  Creating a Virtual Machine
+##  Compute Engine: Qwik Start Windows
+##  Getting Started with Cloud Shell and gcloud
+##  Kubernetes Engine: Qwik Start
+##  Set Up Network and HTTP Load Balancers
+
 ## Learning perceptron and delta
