@@ -10,8 +10,8 @@ This quest has  7  labs
 4. [Getting Started with Cloud Shell and gcloud](#Getting-Started-with-Cloud-Shell-and-gcloud)
 5. [Kubernetes Engine: Qwik Start](#Kubernetes-Engine:-Qwik-Start)
 6. [Set Up Network and HTTP Load Balancers](#Set-Up-Network-and-HTTP-Load-Balancers)
-7. [Create and Manage Cloud Resources](Create-and-Manage-Cloud-Resources)
-8. [Learning perceptron and delta](#Learning-perceptron-and-delta)
+7. [Create and Manage Cloud Resources Challenge Lab](#Create-and-Manage-Cloud-Resources-Challenge-Lab)
+
 
 
 
